@@ -1,2 +1,2 @@
-TOKEN = '8011962563:AAHlk4_szKFjpo3D9khxcIC4X4pRRKnnLXI'
+TOKEN = ''
 DATABASE = 'prodjects.db'
